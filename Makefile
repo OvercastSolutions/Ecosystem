@@ -3,7 +3,7 @@ TARGET = bin/main
 LIBS = cryptopp
 
 
-CXX = g++
+CXX = g++ -std=c++11
 SRCDIR = src
 BUILDDIR = build
 TGTDIR = bin
