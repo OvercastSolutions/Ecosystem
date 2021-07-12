@@ -1,7 +1,8 @@
 
 bin/*
-build/*
+lib/*
 
+build
 
 
 # Prerequisites
@@ -36,3 +37,7 @@ build/*
 *.exe
 *.out
 *.app
+
+# Mac Specific
+*.DS_Store
+
